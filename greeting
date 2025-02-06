@@ -1,0 +1,4 @@
+int a = ("Hi")
+{
+  Console.WriteLine(a)
+}
